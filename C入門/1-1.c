@@ -1,5 +1,5 @@
 //
-//  main.c
+//  1-1.c
 //  C入門
 //
 //  Created by 犬塚眞太郎 on 2013/06/29.
@@ -8,11 +8,9 @@
 
 #include <stdio.h>
 
-int main(int argc, const char * argv[])
+int main11(void)
 {
+    printf("%d", 15+37);
 
-    // insert code here...
-    printf("Hello, World!\n");
-    return 0;
+    return (0);
 }
-
